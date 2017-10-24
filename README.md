@@ -1,3 +1,3 @@
 # Lunar-lander
-Pablo Alves
-Lunar Lander, anàlisi i planificació.
+Pablo Alves:
+Lunar Lander, anÃ lisi i planificaciÃ³.
